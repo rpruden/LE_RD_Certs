@@ -8,7 +8,7 @@ if ($result.IsSuccess)
 ##New Commands
 # Install a Let's Encrypt certificate to Remote Desktop Services
 # Hacked together by Anthony Eden (https://mediarealm.com.au/)
-# Modified by Anthony Prudencio (https://github.com/rpruden/)
+# Modified by Anthony P. (https://github.com/rpruden/)
  
 #Credit: https://ryanmangansitblog.com/2014/06/17/deploying-rds-2012-wild-card-certificate-using-powershell/
 #Credit: https://github.com/Lone-Coder/letsencrypt-win-simple/issues/400
